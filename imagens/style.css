@@ -1,0 +1,22 @@
+body {
+    background: #ffe4ec;
+    font-family: 'Comic Sans MS', cursive, sans-serif;
+    color: #b30059;
+    text-align: center;
+}
+h1 {
+    color: #ff3385;
+    font-size: 2.5em;
+}
+p {
+    font-size: 1.3em;
+    margin: 10px 0;
+}
+img {
+    display: block;
+    margin: 30px auto 20px auto;
+    border-radius: 20px;
+    max-width: 300px;
+    box-shadow: 0 4px 16px #ffb3d1;
+}
+<img src="https://drive.google.com/uc?export=view&id=1ABCdEfGhIJklMNopQRsTuvWXyZ123456" alt="Descrição">
